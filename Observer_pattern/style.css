@@ -1,0 +1,13 @@
+body {
+    color: #fcbe24;
+    margin: 0;
+  }
+  #myCanvas {
+  color: aqua;
+  border: 2px solid;
+  }
+  div {
+    text-align: match-parent;
+    font-size: 20px;
+    margin-top: 10px;
+  }
